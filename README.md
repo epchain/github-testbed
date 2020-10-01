@@ -19,3 +19,7 @@ Others include:
 Here's example image at the next line
 
 ![Sample image](res/image.png)
+
+Two images in a row
+
+![First image](res/image.png) ![Second image](res/image.png)
